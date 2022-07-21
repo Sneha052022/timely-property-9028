@@ -1,0 +1,358 @@
+.main_div{
+    width: 98.7vw;
+    height: 8305.04px;
+    /* border: 1px solid black; */
+    margin-top: 60px;
+}
+.box1{
+    width: 98.7vw;
+    height: 1203.67px;
+    /* border: 1px solid black; */
+   
+}
+.pic1{
+    width: 98.7vw;
+    height: 951.51px;
+    /* border: 1px solid black; */
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pic1 h1{
+    font-size: 120px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    /* line-height: 40px; */
+    color: white;
+    /* padding-top: 300px; */
+    
+}
+.back1{
+    width: 98.7vw;
+    height: 251.16px;
+    /* border: 1px solid yellow; */
+    background-color: #deba58;
+}
+
+.para{
+    width: 505.33px;
+    height: 140.56px;
+    /* border: 1px solid black; */
+    padding-left: 65px;
+    padding-top: 60px;
+    
+}
+.para p{
+    font-size: 15px;
+    margin-top: 0px;
+    color: black;
+    font-weight: 500;
+    
+}
+
+.box2{
+    width: 98.7vw;
+    height: 776.42px;
+    /* border: 1px solid black; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(	https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img1.jpg);
+}
+.box3{
+    width: 98.7vw;
+    height: 885.42px;
+    /* border: 1px solid black; */
+    display: flex;
+    gap: 65px;
+}
+.img1{
+    width: 644.29px;
+    height: 784.27px;
+    /* border: 1px solid black; */
+    margin-top: 101px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img2.jpg);
+}
+.img2{
+    width: 505.33px;
+    height: 674.33px;
+    /* border: 1px solid black; */
+   
+}
+.img2 p{
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+}
+.img22{
+    width: 505.33px;
+    height: 609.42px;
+    /* border: 1px solid black; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img3.jpg);
+}
+
+.box4{
+    width: 98.7vw;
+    height: 789.58px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.left{
+    width: 631.67px;
+    height: 789.58px;
+    /* border: 1px solid black; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img4b.jpg);
+}
+.right{
+    width: 631.67px;
+    height: 789.58px;
+    /* border: 1px solid black; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img5.jpg);
+}
+
+.box5{
+    width: 98.7vw;
+    height: 776.42px;
+    /* border: 1px solid black;  */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(	https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img6.jpg);
+}
+
+.box6{
+    width: 98.7vw;
+    height: 530.98px;
+    /* border: 1px solid black; */
+    
+}
+.QnA{
+    width: 694.83px;
+    height: 530.98px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+.head{
+    width: 694.83px;
+    height: 63.91px;
+    /* border: 1px solid black; */
+}
+.head p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    font-size: 60px;
+}
+.ques1{
+    width: 660.08px;
+    height: 123.25px;
+    /* border: 1px solid black; */
+}
+.ques1 p{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.ques1 a{
+    font-weight: bold;
+    color: rgb(61, 60, 60);
+    
+
+}
+.ques2{
+    width: 660.08px;
+    height: 123.25px;
+    /* border: 1px solid black; */
+}
+.ques2 p{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+}
+.ques2 a{
+    font-weight: bold;
+    color: rgb(61, 60, 60);
+
+}
+.ques3{
+    width: 660.08px;
+    height: 102.46px;
+    /* border: 1px solid black; */
+}
+.ques3 p{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.ques3 a{
+    font-weight: bold;
+    color: rgb(61, 60, 60);
+
+}
+
+.box7{
+    width: 98.7vw;
+    height: 2490.95px;
+    /* border: 1px solid black;  */
+}
+.bo1{
+    width: 98.7vw;
+    height: 851.39px;
+    /* border: 1px solid black; */
+    display: flex;
+    /* background-color: #f0bb66; */
+    
+}
+.comb{
+    width: 98.7vw;
+    height: 789.58px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.left1{
+    width: 631.67px;
+    height: 789.58px;
+    /* border: 1px solid blue; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img7.jpg);
+}
+.right1{
+    width: 631.67px;
+    height: 789.58px;
+    /* border: 1px solid blue; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.jcrew.com/brand_creative/2022/202204-Apr/m-cliffkapono/v2/2022apr_0315_cliff_img8.jpg);
+}
+.text1{
+    width: 785px;
+    height: 38.54px;
+    /* border: 1px solid black; */
+    justify-content: center;
+    margin: auto;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.bo2{
+    width: 98.7vw;
+    height: 1583.23px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.left2{
+    width: 631.66px;
+    height: 1583.23px;
+    /* border: 1px solid red; */
+    /* background-color: #f0bb66; */
+}
+.right2{
+    
+   width: 631.66px;
+   height: 1583.23px;
+   /* border: 1px solid red; */
+   /* background-color: #f0bb66; */
+}
+
+.pict1{
+    width:568.5px;
+   height: 776.8px;
+   /* border: 1px solid black; */
+   margin-top: 40px;
+   padding-left: 30px;
+   
+}
+.pict1 img{
+    width:568.5px;
+    height: 710.63px;
+}
+.pict3{
+    width: 631.67px;
+   height: 789.58px;
+   /* border: 1px solid black; */
+   margin-top: 230px;
+}
+.pict3 img{
+    width: 631.67px;
+    height: 789.58px;
+}
+.pict2{
+    width: 505.33px;
+   height: 604.15px;
+   /* border: 1px solid black; */
+   margin-top: 60px;
+   padding-left: 60px;
+}
+.pict2 img{
+    width: 505.33px;
+    height: 604.15px;
+    
+}
+
+.box8{
+    width: 98.7vw;
+    height: 640.62px;
+    /* border: 1px solid black; */
+    background-color: #fbf9f5;
+}
+.last{
+    width: 1080.15px;
+    height: 640.62px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+.word{
+    width: 1080.15px;
+    height: 52.45px;
+    /* border: 1px solid black; */
+}
+.word p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+.picture{
+    width: 1080.15px;
+    height: 485.84px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo{
+    width: 341.09px;
+    height: 485.84px;
+    /* border: 1px solid black; */
+    line-height: 7px;
+}
+.photo img{
+    width: 341.09px;
+    height: 426.37px;
+}
+.photo p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.photo a{
+    font-weight: bold;
+    color: black;
+}

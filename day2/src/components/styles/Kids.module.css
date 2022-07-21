@@ -1,0 +1,74 @@
+.main {
+    margin-top: 80px;
+}
+.KidsHeader {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.MainPageTop {
+    padding: 20px 24px;
+    width: 100%;
+    height: 674px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.MainPageTop>div {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://www.jcrew.com/brand_creative/homepage2022/05-May/2022may_0426_cc_lp_img0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 0 0 400px;
+}
+.MainPageTop>div>div {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.midWrap {
+    width: 100%;
+    height: 550px;
+    padding: 50px 24px;
+    /* background-color: pink; */
+}
+.midImgWrap {
+    margin-top: 15px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+}
+.midImgWrap div {
+    height: 100%;
+    flex: 1;
+    cursor: pointer;
+    /* background-color: yellow; */
+}
+.midImg img{
+    width: 100%;
+    height: 416.31px;
+}
+.midImg a {
+    text-decoration: none;
+    color: black;
+}
+.aboveFooter {
+    width: 100%;
+    height: 120px;
+    padding: 30px 24px;
+    border-bottom: 1px solid rgb(187, 187, 187);
+}
+.aboveFooter p {
+    font-size: 12px;
+    font-weight: 600;
+    color: #666666;
+    text-align: center;
+}

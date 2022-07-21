@@ -1,0 +1,73 @@
+.main {
+    margin-top: 80px;
+}
+.MainPageTop {
+    width: 100%;
+    height: 674px;
+    background-image: url('https://www.jcrew.com/brand_creative/homepage2022/05-May2/2022may_0503_hp_w_img0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.midWrap {
+    width: 100%;
+    height: 550px;
+    padding: 50px 24px;
+    /* background-color: pink; */
+}
+.midImgWrap {
+    margin-top: 15px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+}
+.midImgWrap div {
+    height: 100%;
+    flex: 1;
+    cursor: pointer;
+    /* background-color: yellow; */
+}
+.midImg img{
+    width: 100%;
+    height: 416.31px;
+}
+.midImg a {
+    text-decoration: none;
+    color: black;
+}
+
+.mainAboveFooter {
+    height: 372.23px;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.aboveFooterImgWrap {
+    display: flex;
+    gap: 20px;
+    width: 90%;
+}
+.aboveFooterImgWrap div {
+    /* height: 259.64px; */
+    flex: 1;
+    cursor: pointer;
+    /* background: turquoise; */
+}
+.aboveFooterInner img {
+    /* height: 208.16px; */
+    width: 100%;
+}
+.aboveFooterInner div {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+}
